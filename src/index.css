@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.brutal-section {
+  @apply py-20 px-4;
+  background-color: theme('colors.bg-brutal');
+}
+
+.brutal-section-alt {
+  background-color: theme('colors.bg-brutal-alt');
+}
+
+.brutal-heading {
+  @apply text-4xl md:text-5xl font-bold;
+  color: theme('colors.bg-brutal-alt');
+  text-shadow: 3px 3px 0 theme('colors.bg-brutal');
+}
+
+.brutal-subheading {
+  @apply text-xl md:text-2xl;
+  color: theme('colors.bg-brutal-alt');
+}
+
+.brutal-button {
+  @apply px-8 py-3 font-bold text-lg;
+  background-color: theme('colors.bg-brutal-alt');
+  color: theme('colors.bg-brutal');
+  border: 3px solid theme('colors.bg-brutal-alt');
+  box-shadow: 5px 5px 0 theme('colors.bg-brutal');
+}
+
+.brutal-button-alt {
+  @apply px-8 py-3 font-bold text-lg;
+  background-color: theme('colors.bg-brutal');
+  color: theme('colors.bg-brutal-alt');
+  border: 3px solid theme('colors.bg-brutal');
+  box-shadow: 5px 5px 0 theme('colors.bg-brutal-alt');
+}
+
+.brutal-button-sm {
+  @apply px-4 py-2 font-bold text-sm;
+  background-color: theme('colors.bg-brutal-alt');
+  color: theme('colors.bg-brutal');
+  border: 2px solid theme('colors.bg-brutal-alt');
+  box-shadow: 3px 3px 0 theme('colors.bg-brutal');
+}
+
+.brutal-card {
+  @apply p-6;
+  background-color: theme('colors.bg-brutal');
+  border: 3px solid theme('colors.bg-brutal-alt');
+  box-shadow: 5px 5px 0 theme('colors.bg-brutal-alt');
+}
+
+.brutal-card-lg {
+  @apply p-8;
+  background-color: theme('colors.bg-brutal');
+  border: 3px solid theme('colors.bg-brutal-alt');
+  box-shadow: 8px 8px 0 theme('colors.bg-brutal-alt');
+}
+
+.brutal-grid {
+  @apply grid md:grid-cols-3 gap-6;
+}
+
+.brutal-text-outline {
+  text-shadow: 
+    -1px -1px 0 theme('colors.bg-brutal-alt'),
+    1px -1px 0 theme('colors.bg-brutal-alt'),
+    -1px 1px 0 theme('colors.bg-brutal-alt'),
+    1px 1px 0 theme('colors.bg-brutal-alt');
+}
+
+.brutal-border {
+  border-color: theme('colors.bg-brutal-alt');
+}
+
+.brutal-clip-path {
+  clip-path: polygon(0 0, 100% 5%, 100% 100%, 0 95%);
+}
+
+.brutal-clip-path-alt {
+  clip-path: polygon(0 5%, 100% 0, 100% 95%, 0 100%);
+}
+
+.brutal-diagonal-bg {
+  background: repeating-linear-gradient(
+    45deg,
+    theme('colors.bg-brutal'),
+    theme('colors.bg-brutal') 10px,
+    theme('colors.bg-brutal-alt') 10px,
+    theme('colors.bg-brutal-alt') 20px
+  );
+}
+
+.brutal-textarea {
+  @apply p-4;
+  background-color: theme('colors.bg-brutal');
+  border: 3px solid theme('colors.bg-brutal-alt');
+  box-shadow: 3px 3px 0 theme('colors.bg-brutal-alt');
+}
+
+.brutal-input {
+  @apply p-3;
+  background-color: theme('colors.bg-brutal');
+  border: 3px solid theme('colors.bg-brutal-alt');
+  box-shadow: 3px 3px 0 theme('colors.bg-brutal-alt');
+}
+
+.brutal-label {
+  @apply block mb-2 font-bold;
+  color: theme('colors.bg-brutal-alt');
+}

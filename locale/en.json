@@ -1,0 +1,100 @@
+{
+  "hero": {
+    "title": "Unleash Your Inner Ghibli with AI",
+    "subtitle": "Create stunning Ghibli-inspired art and animations with our magical AI tools",
+    "cta": "Start Creating Now",
+    "benefits": [
+      "Studio-quality renders",
+      "Artist-approved styles",
+      "Real-time generation",
+      "No artistic skills required"
+    ]
+  },
+  "playground": {
+    "title": "Try Our Magic Generator",
+    "prompt": "Describe your vision",
+    "promptPlaceholder": "A magical forest with glowing spirits...",
+    "style": "Ghibli Style",
+    "styles": {
+      "miyazaki": "Miyazaki (Whimsical & Playful)",
+      "takahata": "Takahata (Natural & Realistic)",
+      "yonebayashi": "Yonebayashi (Dream-like)",
+      "kon": "Kon (Surreal & Psychedelic)"
+    },
+    "intensity": "Style Intensity",
+    "generate": "Generate Magic",
+    "generating": "GENERATING...",
+    "preview": "Your Ghibli-style creation",
+    "empty": "Enter a prompt to begin",
+    "ready": "Ready to generate!",
+    "clear": "Clear",
+    "download": "Download as PNG",
+    "reset": "Try Again",
+    "generatedImage": "AI-generated Ghibli artwork",
+    "tips": [
+      "Be specific about colors and mood",
+      "Mention character expressions",
+      "Describe the lighting atmosphere",
+      "Reference specific Ghibli films"
+    ]
+  },
+  "features": {
+    "title": "Studio-Quality Tools",
+    "items": [
+      {
+        "title": "Style Library",
+        "description": "20+ curated Ghibli styles"
+      },
+      {
+        "title": "Real-Time Preview",
+        "description": "See changes instantly"
+      },
+      {
+        "title": "HD Export",
+        "description": "Up to 8K resolution"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Why Choose GhibliAI Studio?",
+    "feature": "Feature",
+    "styles": "Ghibli Styles Available",
+    "rows": [
+      ["Style Accuracy", "95%\u2713", "70%\u2717"],
+      ["Generation Speed", "<10s\u2713", "30s+\u2717"],
+      ["Animation Support", "12 FPS\u2713", "Static Only\u2717"]
+    ]
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "plans": [
+      {
+        "name": "Starter",
+        "price": "$9",
+        "features": ["100 generations/month", "Basic styles"]
+      },
+      {
+        "name": "Creator",
+        "price": "$29",
+        "features": ["Unlimited generations", "All styles"]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Loved by Creators Worldwide",
+    "quotes": [
+      {
+        "text": "This brings my childhood dreams to life",
+        "author": "Emily R."
+      },
+      {
+        "text": "Unmatched creativity tool",
+        "author": "Takashi M."
+      }
+    ]
+  },
+  "footer": {
+    "links": ["About", "Terms", "Privacy", "Contact"],
+    "copyright": "© 2023 GhibliAI Studio"
+  }
+}

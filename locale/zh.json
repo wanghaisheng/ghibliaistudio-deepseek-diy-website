@@ -1,0 +1,100 @@
+{
+  "hero": {
+    "title": "用AI释放你的吉卜力之魂",
+    "subtitle": "使用我们神奇的AI工具创造令人惊叹的吉卜力风格艺术和动画",
+    "cta": "立即开始创作",
+    "benefits": [
+      "工作室品质渲染",
+      "艺术家认可的风格",
+      "实时生成",
+      "无需艺术技能"
+    ]
+  },
+  "playground": {
+    "title": "试试我们的魔法生成器",
+    "prompt": "描述你的想象",
+    "promptPlaceholder": "一个有着发光精灵的魔法森林...",
+    "style": "吉卜力风格",
+    "styles": {
+      "miyazaki": "宫崎骏风格 (奇幻有趣)",
+      "takahata": "高畑勋风格 (自然写实)",
+      "yonebayashi": "米林宏昌风格 (梦幻)",
+      "kon": "今敏风格 (超现实迷幻)"
+    },
+    "intensity": "风格强度",
+    "generate": "生成魔法",
+    "generating": "生成中...",
+    "preview": "你的吉卜力风格作品",
+    "empty": "输入提示开始",
+    "ready": "准备生成!",
+    "clear": "清除",
+    "download": "下载PNG",
+    "reset": "重试",
+    "generatedImage": "AI生成的吉卜力艺术",
+    "tips": [
+      "具体描述颜色和氛围",
+      "提到角色表情",
+      "描述光照环境",
+      "引用特定吉卜力电影"
+    ]
+  },
+  "features": {
+    "title": "工作室品质工具",
+    "items": [
+      {
+        "title": "风格库",
+        "description": "20+精选吉卜力风格"
+      },
+      {
+        "title": "实时预览",
+        "description": "即时查看变化"
+      },
+      {
+        "title": "高清导出",
+        "description": "最高8K分辨率"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "为什么选择GhibliAI Studio?",
+    "feature": "功能",
+    "styles": "可用的吉卜力风格",
+    "rows": [
+      ["风格准确度", "95%\u2713", "70%\u2717"],
+      ["生成速度", "<10秒\u2713", "30秒+\u2717"],
+      ["动画支持", "12帧\u2713", "仅静态\u2717"]
+    ]
+  },
+  "pricing": {
+    "title": "简单透明的定价",
+    "plans": [
+      {
+        "name": "入门版",
+        "price": "¥59",
+        "features": ["每月100次生成", "基本风格"]
+      },
+      {
+        "name": "创作者版",
+        "price": "¥199",
+        "features": ["无限生成", "所有风格"]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "受到全球创作者喜爱",
+    "quotes": [
+      {
+        "text": "这让我童年的梦想成真了",
+        "author": "艾米丽·R"
+      },
+      {
+        "text": "无与伦比的创意工具",
+        "author": "高桥诚"
+      }
+    ]
+  },
+  "footer": {
+    "links": ["关于", "条款", "隐私", "联系我们"],
+    "copyright": "© 2023 GhibliAI工作室"
+  }
+}
